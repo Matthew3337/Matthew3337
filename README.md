@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Matthew3337
-- 👀 I’m interested in client server apllications development
-- 🌱 I’m currently learning java ( 2 years ) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me marottam328@gmail.com
+# Hi, I'm Matteo Marotta 👋
 
-<!---
-Matthew3337/Matthew3337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science student (Informatica, L-31) at the **University of Salerno** — expected graduation July 2027
+📍 Based in Napoli, Italy
+💼 2 years of professional experience as a **Flutter Developer** at Magis SaS
+
+I build mobile and web applications end-to-end — from UI to backend to cloud deployment — and I'm currently deepening my skills in algorithms, computer networks, and backend development.
+
+## 🚀 Featured Projects
+
+### 🏓 [prenotazioniPadel](https://github.com/Matthew3337/prenotazioniPadel)
+A padel court booking mobile app. Flutter frontend with Clean Architecture and BLoC state management, Spring Boot backend deployed on Oracle Cloud with automated CI/CD.
+`Flutter` `Dart` `Spring Boot` `Docker` `GitHub Actions`
+
+### 🏋️ [GYM-MANAGER](https://github.com/Matthew3337/GYM-MANAGER)
+A desktop application to track and analyze personal bodybuilding training data.
+`Java`
+
+### 🛒 [PokerShop](https://github.com/C-JeanDev/PokerShop)
+A Java EE e-commerce platform for poker equipment, built as a team university project. Guest/logged-in cart system, AJAX product search, order management.
+`Java` `Servlet/JSP` `MySQL`
+
+## 🛠️ Tech Stack
+
+**Languages:** Java · Dart · C · SQL
+**Frameworks/Tools:** Flutter · Spring Boot · Firebase · Git · Docker · GitHub Actions
+**Concepts:** Clean Architecture · REST APIs · OOP · Data Structures & Algorithms · Computer Networks
+
+## 📫 Get in touch
+
+- 📧 marottam328@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/matteo-marotta-aa0901353)

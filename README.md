@@ -4,7 +4,7 @@
 📍 Based in Napoli, Italy
 💼 2 years of professional experience as a **Flutter Developer** at Magis SaS
 
-I build mobile and web applications end-to-end — from UI to backend to cloud deployment — and I'm currently deepening my skills in algorithms, computer networks, and backend development.
+I build mobile and web applications end-to-end — from UI to backend to cloud deployment — and I'm currently deepening my skills in algorithms, machine learning and artificial intelligence.
 
 ## 🚀 Featured Projects
 
